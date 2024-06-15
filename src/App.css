@@ -1,0 +1,10 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-image: url("https://www.propergroove.org/wp-content/uploads/iStock-494347092.jpg");
+}
+body{
+              overflow-x: hidden;
+
+}
